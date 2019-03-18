@@ -3,6 +3,7 @@ This is Customised Alert View For Ios Swift Library.
 
 Add UIView to The Storyboard and set the RSAlertViewController.swift to the UIView.
 In Main Program call the follwing necessory functions with respective parameters.
+Add the action for Accept and Decline Button inside the objective c function of RSAlertViewController.swift file.
 
     1. VCColor
     2. AlertIconAct
